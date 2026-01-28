@@ -41,6 +41,10 @@
     transition: transform 0.1s ease;
 }
 
+.separator {
+    font-size: 30px;
+}
+
 .active {
     opacity: 1;
     font-weight: bold;

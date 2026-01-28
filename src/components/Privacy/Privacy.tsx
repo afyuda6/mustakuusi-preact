@@ -14,7 +14,7 @@ export const Privacy = ({id, title}: { id?: string, title?: string }) => {
                 <button className={`${styles.translateBtn} ${!isIndonesian ? styles.active : ""}`}
                         onClick={() => setLanguage('en')}>EN
                 </button>
-                <span> | </span>
+                <span className={styles.separator}>&nbsp;|&nbsp;</span>
                 <button className={`${styles.translateBtn} ${isIndonesian ? styles.active : ""}`}
                         onClick={() => setLanguage('id')}>ID
                 </button>
