@@ -1,0 +1,102 @@
+[
+  {
+    "id": "lato",
+    "name": "Lato",
+    "imageSrc": "elephant.png"
+  },
+  {
+    "id": "yiki",
+    "name": "Yiki",
+    "imageSrc": "chick.png"
+  },
+  {
+    "id": "yebu",
+    "name": "Yebu",
+    "imageSrc": "bear.png"
+  },
+  {
+    "id": "mogi",
+    "name": "Mogi",
+    "imageSrc": "gorilla.png"
+  },
+  {
+    "id": "mipu",
+    "name": "Mipu",
+    "imageSrc": "pig.png"
+  },
+  {
+    "id": "cuki",
+    "name": "Cuki",
+    "imageSrc": "duck.png"
+  },
+  {
+    "id": "cipu",
+    "name": "Cipu",
+    "imageSrc": "penguin.png"
+  },
+  {
+    "id": "boli",
+    "name": "Boli",
+    "imageSrc": "owl.png"
+  },
+  {
+    "id": "bipu",
+    "name": "Bipu",
+    "imageSrc": "hippo.png"
+  },
+  {
+    "id": "goci",
+    "name": "Goci",
+    "imageSrc": "crocodile.png"
+  },
+  {
+    "id": "ginu",
+    "name": "Ginu",
+    "imageSrc": "rhino.png"
+  },
+  {
+    "id": "rapi",
+    "name": "Rapi",
+    "imageSrc": "parrot.png"
+  },
+  {
+    "id": "roku",
+    "name": "Roku",
+    "imageSrc": "monkey.png"
+  },
+  {
+    "id": "wodi",
+    "name": "Wodi",
+    "imageSrc": "dog.png"
+  },
+  {
+    "id": "woka",
+    "name": "Woka",
+    "imageSrc": "cow.png"
+  },
+  {
+    "id": "kara",
+    "name": "Kara",
+    "imageSrc": "rabbit.png"
+  },
+  {
+    "id": "kezo",
+    "name": "Kezo",
+    "imageSrc": "zebra.png"
+  },
+  {
+    "id": "kapa",
+    "name": "Kapa",
+    "imageSrc": "panda.png"
+  },
+  {
+    "id": "keli",
+    "name": "Keli",
+    "imageSrc": "whale.png"
+  },
+  {
+    "id": "kome",
+    "name": "Kome",
+    "imageSrc": "moose.png"
+  }
+]
