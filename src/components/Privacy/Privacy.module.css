@@ -3,10 +3,13 @@
 .privacy {
     color: var(--color-text);
     background-color: var(--color-bg);
+    padding: 20px 10%;
 }
 
-.privacy {
-    padding: 20px 10%;
+.privacy * ,
+.translate-btn,
+.separator {
+    font-family: "Roboto", sans-serif;
 }
 
 .privacy p {
