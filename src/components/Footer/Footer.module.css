@@ -1,0 +1,16 @@
+@import "../../vars.css";
+
+.container {
+    width: 100%;
+    overflow: hidden;
+    background-color: #FF9FFF;
+    color: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text {
+    display: inline-block;
+    white-space: nowrap;
+}

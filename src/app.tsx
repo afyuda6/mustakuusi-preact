@@ -1,6 +1,7 @@
 import {useEffect} from "preact/hooks";
 import {Router, LocationProvider} from "preact-iso";
 import {Marquee} from "./components/Marquee/Marquee";
+import {Footer} from "./components/Footer/Footer";
 import {HomePage} from "./pages/HomePage";
 import {GamePage} from "./pages/GamePage";
 import {CharacterPage} from "./pages/CharacterPage";
@@ -12,7 +13,7 @@ export function App() {
         if (window.location.hash) {
             const id = window.location.hash.slice(1);
             const el = document.getElementById(id);
-            if (el) el.scrollIntoView({ behavior: "smooth" });
+            if (el) el.scrollIntoView({behavior: "smooth"});
         }
     }, []);
 
@@ -27,6 +28,7 @@ export function App() {
                     <PrivacyPolicyPage path="/preact/privacy-policy/:id"/>
                     <div default/>
                 </Router>
+                <Footer/>
             </div>
         </LocationProvider>
     )
