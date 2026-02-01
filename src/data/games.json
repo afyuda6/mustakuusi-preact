@@ -1,5 +1,32 @@
 [
   {
+    "id": "kwis-mat-sd-2",
+    "title": "KWIS: Matematika SD Kelas 2",
+    "imageSrc": "kwis-mat-sd-2.png",
+    "date": "Februari 2026",
+    "description": "Sebuah gim edukasi interaktif yang membantu anak belajar matematika dasar melalui kuis bergambar yang seru dan penuh warna.",
+    "categories": [
+      "Edukasi",
+      "Kuis"
+    ],
+    "detail": "/kwis-mat-sd-2",
+    "privacyPolicyLink": "/privacy-policy/kwis-mat-sd-2",
+    "downloadLink": "",
+    "playLink": "",
+    "longDescription": "\uD83D\uDCD3 KWIS: Matematika SD Kelas 2 — Belajar Asyik & Interaktif!\n\nKWIS: Matematika SD Kelas 2 adalah gim edukasi interaktif untuk membantu anak belajar berhitung dengan cara yang menyenangkan!\nJawab 108 soal latihan yang mencakup membilang, penjumlahan, pengurangan, bentuk di sekitar, posisi benda dan pola di sekitar, pecahan, pengukuran dan berbagai diagram. Semua dikemas dalam bentuk kuis berwarna yang menarik.\n\n\uD83C\uDFAE Fitur Gim:\n\uD83E\uDDEE 108 Soal Matematika Dasar: Melatih konsep membilang, penjumlahan, pengurangan, bentuk di sekitar, posisi benda dan pola di sekitar, pecahan, pengukuran dan berbagai diagram.\n\uD83C\uDF08 Soal Interaktif & Bergambar: Dirancang agar anak belajar sambil bermain.\n\uD83C\uDFC6 Level Bertahap: Tantangan meningkat seiring kemajuan pemain.\n\uD83D\uDD0A Umpan Balik Suara & Visual: Memberi semangat dan membantu pemahaman anak.\n\uD83D\uDCF4 Mode Offline: Dapat dimainkan tanpa internet, kapan pun, di mana pun.\n\uD83D\uDCB0 Opsi Tanpa Iklan: Nikmati pengalaman belajar yang lebih fokus dengan pembelian satu kali untuk menghapus iklan.\n\uD83D\uDC67 Aman untuk Anak: Tanpa login, tanpa akun, fokus pada pengalaman belajar.\n\nKWIS dirancang khusus untuk siswa SD kelas 2 agar belajar matematika terasa seperti bermain: seru, ringan, dan mendidik!\nCocok untuk orang tua dan guru yang ingin mengenalkan konsep dasar matematika dengan cara yang menyenangkan.",
+    "screenshots": [
+      "kwis-mat-sd-2-1.png",
+      "kwis-mat-sd-2-2.png",
+      "kwis-mat-sd-2-3.png",
+      "kwis-mat-sd-2-4.png"
+    ],
+    "characters": [
+      "mogi",
+      "mipu",
+      "lato"
+    ]
+  },
+  {
     "id": "kwis-mat-sd-1",
     "title": "KWIS: Matematika SD Kelas 1",
     "imageSrc": "kwis-mat-sd-1.png",
